@@ -1,7 +1,7 @@
-a = int(input("Input first number: "))
-b = int(input("Input second number: "))
-c = int(input("Input third number: "))
-d = int(input("Input fourth number: "))
+a = float(input("Input first number: "))
+b = float(input("Input second number: "))
+c = float(input("Input third number: "))
+d = float(input("Input fourth number: "))
 
 sum1 = a + b
 sum2 = c + d
